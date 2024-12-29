@@ -1,2 +1,2 @@
 # Fruit-defect-detection-using-deep-learning
-Fruit defect detection using deep learning aims to identify and classify defects in fruits to improve quality control 
+Fruit defect detection using deep learning aims to identify and classify defects in fruits to improve quality control and reduce manual inspection efforts. YOLOv8(You Only Look Once version 8) is a state-of-the-art object detection model well-suited for this task due to its high accuracy,speed and ability to detect multiple defects in a single inference.  
